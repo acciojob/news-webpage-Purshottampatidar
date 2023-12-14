@@ -4,6 +4,7 @@ body{
 }
 .header{
 	background-color:#011e29;
+	text-align:center;
 }
 .header h2{
 	color:white;
@@ -39,8 +40,8 @@ body{
 }
 .pictorial-news-section img{
 	 width: 200px;
-  height: 100px;
-  object-fit: cover;
+     height: 100px;
+     object-fit:contain;
 }
 
 
